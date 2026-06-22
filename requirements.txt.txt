@@ -1,0 +1,33 @@
+# Core
+numpy==1.23.5
+scipy==1.10.1
+pillow==9.5.0
+tqdm==4.66.1
+click==8.1.7
+pyyaml==6.0.1
+
+# Deep Learning
+torch==2.0.1
+torchvision==0.15.2
+
+# StyleGAN3 dependencies
+ninja==1.11.1
+imageio==2.31.1
+imageio-ffmpeg==0.4.9
+psutil==5.9.6
+requests==2.31.0
+
+# Computer Vision
+opencv-python==4.8.1.78
+scikit-image==0.21.0
+
+# Preprocessing (optional, for preprocess.py)
+dlib==19.24.2
+
+# Machine Learning / Training
+scikit-learn==1.3.2
+matplotlib==3.7.3
+seaborn==0.13.0
+
+# Utilities
+joblib==1.3.2
